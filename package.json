@@ -1,0 +1,21 @@
+{
+  "name": "nodecrud",
+  "version": "1.0.0",
+  "description": "A simple crud app with nodejs.",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "errorhandler": "*",
+    "express": "4.8.*",
+    "method-override": "*",
+    "morgan": "1.3.*",
+    "pg": "^4.5.3",
+    "serve-favicon": "2"
+  },
+  "author": "eosilva",
+  "license": "ISC"
+}

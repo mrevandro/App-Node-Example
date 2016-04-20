@@ -1,0 +1,19 @@
+{
+  "name": "nodecrud",
+  "description": "A simple crud app with nodejs.",
+  "main": "app.js",
+  "authors": [
+    "eosilva"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.*",
+    "jquery": "^2.2.*",
+    "bootstrap": "^3.3.*"
+  }
+}
